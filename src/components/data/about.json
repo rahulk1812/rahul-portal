@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "role": "Aspiring Full Stack Developer",
+    "startDate": "MCA Graduate",
+    "endDate": "",
+    "location": "Ranchi, India",
+    "about": [
+      "I am Rahul Kumar, a passionate developer with expertise in MERN stack, Python, and Java, focused on creating impactful and user-friendly applications.",
+      "I have completed a certified internship at EY GDS & AICTE, gaining hands-on experience in full-stack development, REST API integration, and deployment.",
+      "My projects include an AI-powered Resume Screening System and a Food Delivery App, showcasing my skills in both AI and modern web technologies.",
+      "I believe in continuous learning, adaptability, and teamwork, which drive me to deliver high-quality solutions.",
+      "Beyond coding, I enjoy exploring emerging technologies, AI trends, and innovative ideas that merge technology with real-world impact."
+    ]
+  }
+]
